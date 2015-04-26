@@ -4,22 +4,9 @@ author: "superapple"
 date: "Sunday, April 26, 2015"
 output: html_document
 ---
-* subject: Each row identifies the subject who performed the activity for each window sample.
+* subject: Each row identifies the subject who performed the activity for each window sample.Integer; From 1 to 30.
 
-integer
-
-from 1 to 30
-
-* activity_label: Activity names.
-
-character
-
-"LAYING"             
-"SITTING"            
-"STANDING"          
-"WALKING"            
-"WALKING_DOWNSTAIRS" 
-"WALKING_UPSTAIRS"
+* activity_label: Activity names. Character; ("LAYING""SITTING""STANDING""WALKING""WALKING_DOWNSTAIRS""WALKING_UPSTAIRS".
 
 * "tBodyAcc-mean()-X: Mean value of body acceleration signals in X direction  Numeric;  Minimum: 0.22159824394 ; Maximum:  0.3014610196 ."
 
