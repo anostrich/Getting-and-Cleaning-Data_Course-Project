@@ -1,8 +1,7 @@
 ---
 title: "Codebook"
-author: "superapple"
+author: "anostrich"
 date: "Sunday, April 26, 2015"
-output: html_document
 ---
 * subject: Each row identifies the subject who performed the activity for each window sample.Integer; From 1 to 30.
 
